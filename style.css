@@ -1,0 +1,32 @@
+.heading{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.item{
+    margin:10px ;
+    font-size:20px ;
+}
+    a:visited {
+        color: black;
+    }
+    a:hover {
+        color: red;
+    }
+    .structure {
+        text-align:center ;
+
+    }
+    .bar {
+            resize: none;
+            background-color: transparent;
+            border: none;
+            margin: 0;
+            padding: 0;
+            color: rgba(0,0,0,.87);
+            word-wrap: break-word;
+            outline: none;
+            display: flex;
+            -webkit-tap-highlight-color: transparent;
+        }
